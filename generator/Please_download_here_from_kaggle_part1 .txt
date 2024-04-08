@@ -1,0 +1,5 @@
+Pleae download master Part 1 dataset from the following kaggle web site.
+
+Cancer Instance Segmentation and Classification 1
+https://www.kaggle.com/datasets/andrewmvd/cancer-inst-segmentation-and-classification
+
